@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Gleb1\Desktop\c++\Заполнение массива случайными числами\proj1\proj1\main.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Gleb1\Desktop\c++\Заполнение массива случайными числами\proj1\proj1\main.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  proj1.vcxproj -> C:\Users\Gleb1\Desktop\c++\Заполнение массива случайными числами\proj1\x64\Debug\proj1.exe
